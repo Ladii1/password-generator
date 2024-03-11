@@ -1,7 +1,5 @@
 ## Password Generator
 
-# Instructions
-
 The program will ask:
 ```
 How many letters would you like in your password?
@@ -36,6 +34,3 @@ x$d24g*f9
 ```
 And every time you generate a password, the positions of the symbols, numbers, and letters are different. 
 
-# Solution
-
-[https://replit.com/@appbrewery/password-generator-end](https://replit.com/@appbrewery/password-generator-end)
